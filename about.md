@@ -9,7 +9,7 @@ One-line summary of who you are and what you want.
 
 ## What I build
 - **Languages:** Go; Python; TypeScript
-- **Areas:** APIs, distributed systems, observability
+- **Areas:** APIs, distributed systems, observability, machines
 
 ## Resume
 [Download my resume](/assets/resume.pdf)
