@@ -1,0 +1,27 @@
+title: "Your Name"
+email: "you@example.com"
+description: "Software engineer. Systems thinker. I build reliable, scalable web apps."
+baseurl: "" # leave empty for user site
+url: "https://yourusername.github.io"
+theme: minima
+author:
+  name: "Your Name"
+  bio: "Backend engineer; open-source contributor; loves clean APIs."
+social:
+  github: yourusername
+  linkedin: your-linkedin-username
+  twitter: yourtwitter
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+collections:
+  projects:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
