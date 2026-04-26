@@ -1,8 +1,8 @@
-title: "Your Name"
+title: "Sruthi Mathews, PMP"
 email: "you@example.com"
-description: "Software engineer. Systems thinker. I build reliable, scalable web apps."
+description: "Project Manager. Learning cybersecurity one ticket at a time."
 baseurl: "" # leave empty for user site
-url: "https://yourusername.github.io"
+url: "https://ssmaths.github.io"
 theme: minima
 author:
   name: "Your Name"
