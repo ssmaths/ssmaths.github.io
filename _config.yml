@@ -7,17 +7,7 @@ theme: minima
 author:
   name: "Your Name"
   linkedin: your-linkedin-username
-<!-- Text link -->
-<p>Connect with me on <a href="https://www.linkedin.com/in/yourname" target="_blank">LinkedIn</a>.</p>
-
-<!-- Button-style link -->
-<a href="https://www.linkedin.com/in/yourname" target="_blank" style="text-decoration:none;">
-  <button type="button">Visit My LinkedIn Profile</button>
-</a>
-
-
-  
-  #bio: "Backend engineer; open-source contributor; loves clean APIs."
+  bio: "Backend engineer; open-source contributor; loves clean APIs."
 social:
   github: yourusername
   linkedin: your-linkedin-username
