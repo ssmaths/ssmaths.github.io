@@ -1,13 +1,13 @@
 ---
-title: "Project A"
+title: "Learning Website Architecture"
 layout: project
-tech: "Go; Docker; PostgreSQL"
+tech: "API calls"
 repo: "https://github.com/yourusername/project-a"
 image: "/assets/project-a.png"
 ---
 
-**Problem:** short problem statement.
+**Problem:**  APIs are Application programming interfaces. API calls allow applications to interact with each other in a systematic and predicatable way. It is important therefore to learn to interact with APIs with standard messages. So let's begin.
 
-**Approach:** what you built and why.
+**Approach:** Let's take some notes for standard API calls and how to use them.
 
 **Outcome:** metrics, lessons, link to code/demo.
