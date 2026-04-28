@@ -16,4 +16,12 @@ So let's begin.
 
 **Approach:** Let's take some notes for standard API calls and how to use them.
 
-**Outcome:** metrics, lessons, link to code/demo.
+**Outcome:** 
+REST(Representational State Transfer) remains the most widely used pattern for web services
+
+Common items to remember about REST:
+1. Each request from the client must contain all the information the server needs to understand it. The server doesn't "remember" previous requests.
+2. The user interface (client) and the data storage (server) are independent. You can change your mobile app's UI without touching the server's database logic.
+3. REST APIs use standard HTTP methods to perform actions as follows:
+
+   
