@@ -4,14 +4,14 @@ description: "Cybersecurity Notes for the beginner programmer"
 baseurl: "" # leave empty for user site
 url: "https://ssmaths.github.io"
 theme: minima
-#author:
-  #name: "Your Name"
-  #linkedin: your-linkedin-username
+author:
+  name: "Your Name"
+  linkedin: your-linkedin-username
   bio: "Project Manager. Learning cybersecurity one ticket at a time."
-#social:
-  #github: yourusername
-  #linkedin: your-linkedin-username
-  #twitter: yourtwitter
+social:
+  github: yourusername
+  linkedin: your-linkedin-username
+  twitter: yourtwitter
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
