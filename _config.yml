@@ -1,13 +1,13 @@
 title: "Sruthi Mathews, PMP"
-email: "you@example.com"
-description: "Project Manager. Learning cybersecurity one ticket at a time."
+email: "https://www.linkedin.com/in/sruthimathews/"
+description: "Cybersecurity Notes for the beginner programmer"
 baseurl: "" # leave empty for user site
 url: "https://ssmaths.github.io"
 theme: minima
 author:
   name: "Your Name"
   linkedin: your-linkedin-username
-  bio: "Backend engineer; open-source contributor; loves clean APIs."
+  bio: "Project Manager. Learning cybersecurity one ticket at a time."
 social:
   github: yourusername
   linkedin: your-linkedin-username
