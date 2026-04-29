@@ -1,10 +1,10 @@
 ---
-title: "An incident handler's journal"
-date: 2026-02-13
-tags: [incident recording, post mortem]
+title: "HTTP Status Codes Reference"
+date: 2026-04-21
+tags: []
 ---
 
-# HTTP Status Codes Reference
+
 The first digit of the code defines the Category:
 
 1xx (Informational): "Hold on, I'm thinking/processing."
