@@ -1,6 +1,11 @@
+---
+title: "REST API Calls"
+date: 2026-04-18
+tags: []
+---
 
-# Learning Website Architecture
-## API Calls
+
+
 
 
 **Problem:**  APIs are Application programming interfaces. API calls allow applications to interact with each other in a systematic and predicatable way. 
