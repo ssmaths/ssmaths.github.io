@@ -1,17 +1,17 @@
 title: "Sruthi Mathews, PMP"
-email: "https://www.linkedin.com/in/sruthimathews/"
+email: ""
 description: "Cybersecurity Notes for the beginner programmer"
 baseurl: "" # leave empty for user site
 url: "https://ssmaths.github.io"
 theme: minima
 author:
   name: "Sruthi Mathews"
-  linkedin: your-linkedin-username
+  linkedin: sruthimathews
   bio: "Project Manager. Learning cybersecurity one ticket at a time."
 social:
-  github: yourusername
-  linkedin: your-linkedin-username
-  twitter: yourtwitter
+  github: 
+  linkedin: sruthmiathews
+  twitter: 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
