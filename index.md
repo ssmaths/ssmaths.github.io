@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# Hi, I'm Your Name
+# Hi, I'm Sruthi Mathews
 **Elevator pitch:** I build backend systems and developer tools that scale.
 
 ## Selected projects
