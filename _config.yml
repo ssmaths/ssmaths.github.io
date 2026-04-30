@@ -4,9 +4,9 @@ description: "Cybersecurity Notes for the beginner programmer"
 baseurl: "" # leave empty for user site
 url: "https://ssmaths.github.io"
 theme: minima
-author:
-  name: 
-  bio: 
+#author:
+#  name: 
+#  bio: 
 social:
   github: 
   linkedin: sruthimathews
