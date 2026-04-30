@@ -5,8 +5,8 @@ baseurl: "" # leave empty for user site
 url: "https://ssmaths.github.io"
 theme: minima
 author:
-  name: "Sruthi Mathews"
-  bio: "Project Manager. Learning cybersecurity one ticket at a time."
+  name: ""
+  bio: ""
 social:
   github: 
   linkedin: sruthimathews
