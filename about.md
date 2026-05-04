@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Elevator pitch
-One-line summary of who you are and what you want.
+With 8 years of experience bridging the gap between technical engineering and high-level project management, I bring a unique perspective to the world of cybersecurity. As a PMP-certified professional currently completing the Google Cybersecurity Professional Certificate, I specialize in translating complex technical risks into actionable business strategies.
 
 ## What I build
 - **Languages:** Go; Python; TypeScript
