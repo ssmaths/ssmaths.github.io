@@ -4,7 +4,11 @@ title: "Hello!"
 ---
 
 # Hi, I'm Sruthi Mathews
-**Elevator pitch:** I build backend systems and developer tools that scale.
+**Get to know me:** 
+
+  With a foundational degree in Biomedical Engineering and a career built solving high-stakes problems in the oilfield and construction industries, I have spent years ensuring complex systems operate safely and efficiently. 
+  
+  As a PMP-certified Project Manager, I’ve specialized in risk mitigation, technical oversight, and delivering critical infrastructure under pressure. Now, I am pivoting my engineering mindset and leadership experience toward cybersecurity—bridging the gap between physical operational integrity and digital resilience to protect the systems that keep our world running.
 
 <!--
 ## Selected projects
